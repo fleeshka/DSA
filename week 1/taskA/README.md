@@ -10,6 +10,7 @@ First line contains a single number N (0≤N≤10^(6)). Next line contains a seq
 A sorted sequence of numbers, separated by whitespace.
 
 **Example**
+
 Input:  
 `50 `  
 `0 5 1 -2 2 10 13 3 3 8 8 7 14 15 9 13 21 15 16 17 15 24 23 26 19 27 21 27 32 26 25 30 31 34 41 40 36 41 41 45 38 48 47 38 42 49 47 47 47 53`  
