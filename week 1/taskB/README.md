@@ -17,7 +17,6 @@ The output must contain K lines, each of which contains a <PLAYER> <SCORE> line.
 
 Input:  
 `6 3  
-
 Luffgirl 123  
 Cut3_Sugarr 234  
 Sw33t_Sparrow 789  
