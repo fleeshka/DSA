@@ -1,4 +1,4 @@
-### Top ranking 
+## Top ranking 
 
 You are given an unsorted list of players with their scores in a video game. Build a highscore leadership table.
 You must implement the main algorithm as a separate function and invoke it from main(). 
@@ -17,6 +17,7 @@ The output must contain K lines, each of which contains a <PLAYER> <SCORE> line.
 
 Input:  
 `6 3  
+
 Luffgirl 123  
 Cut3_Sugarr 234  
 Sw33t_Sparrow 789  
