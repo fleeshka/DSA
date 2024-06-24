@@ -4,7 +4,7 @@ You are given a sequence of numbers that is nearly sorted.
 You must implement a sorting algorithm as a separate method or function and invoke it in from main(). The sorting algorithm must take an input array as an argument and either return a new sorted array, or modify the input array in place.
 
 **Input**
-First line contains a single number N (0≤N≤106). Next line contains a sequence of N numbers, separated by a whitespace.
+First line contains a single number N (0≤N≤10^(6)). Next line contains a sequence of N numbers, separated by a whitespace.
 
 **Output**
 A sorted sequence of numbers, separated by whitespace.
