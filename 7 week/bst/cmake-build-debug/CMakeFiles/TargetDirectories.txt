@@ -1,0 +1,3 @@
+D:/IU/DSandA/7 week/bst/cmake-build-debug/CMakeFiles/bst.dir
+D:/IU/DSandA/7 week/bst/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/IU/DSandA/7 week/bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
